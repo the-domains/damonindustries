@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0C8C0'
+    - '#000000'
+    - '#707880'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.6351754528908583
+  lightness: 0.12522920912475066
+  rhythmicContrast: 0.4455631993144502
+  saturation: 0.8581730667410168
+cta: {}
+layout_spectrum: 1
+name: DamonIndustries
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.8455513209299554
