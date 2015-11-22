@@ -1,4 +1,20 @@
-analytics: {}
+name: DamonIndustries
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.8455513209299554
+title: Damon Industries
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0C8C0'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.6351754528908583
   lightness: 0.12522920912475066
-  rhythmicContrast: 0.4455631993144502
   saturation: 0.8581730667410168
-cta: {}
-layout_spectrum: 1
-name: DamonIndustries
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.8455513209299554
+  rhythmicContrast: 0.4455631993144502
+purpose:
+  - name: null
+    item: null
+    url: null
